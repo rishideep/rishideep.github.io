@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Rishideep's homepage"
 title_separator          : "-"
 name                     : "Rishideep Roy"
-description              : "An amazing website."
+description              : "Rishideep's homepage."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :"rishideep-roy-11aa5631"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
