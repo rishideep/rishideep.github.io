@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Rishideep's homepage"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Rishideep Roy"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : ""
   location         : "Somewhere"
   email            :
   uri              :
